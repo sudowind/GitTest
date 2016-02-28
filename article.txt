@@ -1,1 +1,3 @@
 Hello Git
+this is useful
+hello again
