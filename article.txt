@@ -1,4 +1,4 @@
 Hello Git
 this is useful
 hello again
-creating a branch is cool:
+creating a branch is cool
